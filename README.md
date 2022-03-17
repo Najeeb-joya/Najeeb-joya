@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Najeeb-joya
+- 👋 Hi, I’m Najeebullah Joya
 - 👀 I’m interested in ... Frontend Development 
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...open-source project 
