@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najeebullah Joya</h1>
-<h3 align="center">A passionate frontend developer from Afghanistan.</h3>
+<h3 align="center">A passionate frontend developer from the earth.</h3>
 
 
 <h3 align="left">About me:</h3>
