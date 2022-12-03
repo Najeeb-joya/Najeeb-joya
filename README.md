@@ -5,13 +5,13 @@
 <h3 align="left">About me:</h3>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=najeeb-joya&show_icons=true&locale=en" alt="najeeb-joya" /></p>
 
-- 🔭 I’m currently working on **POMODORA Timer APP**
+- 🔭 I’m currently working on **Learning New Skills**
 
-- 🌱 I’m currently learning **JavaScript, Tailwind CSS**
+- 🌱 I’m currently learning **New Tools and Technologies in DevOps**
     
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **Frontend Development(HTM, CSS, JS)**
+- 💬 Ask me about **DevOps, Docker, Kubernetes, CI/CD with Jenkins, IaC with Terraform, Ansible ...**
 
 - 📫 How to reach me **najeebullah.joya79@gamil.com**
 
